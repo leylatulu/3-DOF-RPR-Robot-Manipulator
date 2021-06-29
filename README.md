@@ -1,7 +1,6 @@
 # 3-DOF RPR MANIPULATOR
 
-![Alt Text](https://user-images.githubusercontent.com/53316818/123525052-e51a8d00-d6d6-11eb-9e0f-c7f67e5cdfba.gif?fit=scale)
-
+![Alt Text](https://user-images.githubusercontent.com/53316818/123525052-e51a8d00-d6d6-11eb-9e0f-c7f67e5cdfba.gif?fit=scale) 
 
 ## Coordinate Placement
 <p align="center"> 
