@@ -1,9 +1,12 @@
+% Written by Leyla Tülü
+% 17.06.2021 14:26:08
+
 clc; clear all; close all;
 
 figure
 set(gcf,'Position',[100 100 1600 800])
 
-% DEfined link lenghts 
+% Defined link lenghts 
 l1 = 600;
 l2 = 400; 
 l3 = 300;

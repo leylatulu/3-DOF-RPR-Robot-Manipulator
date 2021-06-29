@@ -1,3 +1,6 @@
+% Written by Leyla Tülü
+% 15.06.2021 10:37:58
+
 function [newDH] = DH(a, alpha, d, theta)
 
 % Convert degree to radian 

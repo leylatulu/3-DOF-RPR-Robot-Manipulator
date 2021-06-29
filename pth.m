@@ -1,3 +1,6 @@
+% Written by Leyla Tülü
+% 15.06.2021 11:25:03
+
 function [Pos,Vel,Acc] = pth(ts, tf, dts, dtf, time)
 
 s0 = ts;

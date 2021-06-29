@@ -1,3 +1,6 @@
+% Written by Leyla Tülü
+% 15.06.2021 10:54:32
+
 function [t1,d2,t3] = invkin(x, y, z, l1, l2, l3)
 
 d2 = l1;
